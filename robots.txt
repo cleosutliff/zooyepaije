@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://photeifuav.nimbusflex.com/sitemap.xml
